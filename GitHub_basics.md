@@ -6,8 +6,10 @@ GitHub - a code hosting platform for version control and collaboration (being on
   
   [GitHub get started](https://docs.github.com/en/get-started)
 
-## Vocabulary
+## Terms
   **CLI** - command line interface
+  
+  **Directory** - folder
   
   **Repository** - project, or folder/place where your project is kept.
   
