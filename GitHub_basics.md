@@ -18,10 +18,7 @@ GitHub - a code hosting platform for version control and collaboration (being on
 ## MD files
 If you want to add a few text files like I did, you just press "New" and add .md to the name of your file.
 
-## README.md
-Readme.md is a project description with mockups. It's the default file that Github shows as a description.
-    
-Written in the plain [Markdown language](https://www.markdownguide.org/cheat-sheet/).
+They are written in the plain [Markdown language](https://www.markdownguide.org/cheat-sheet/).
 
 For example:
 
@@ -37,6 +34,10 @@ For example:
     horizontal ruler: --- 
     link: [title](https://www.example.com)
     image: ![alt text](image.jpg)
+    adding tabs will make a grey window like this one
+
+## README.md
+Readme.md is a project description with mockups. It's the default file that Github shows as a description.
     
 Each repository should include a README.md file with information about your project (other people and employer can read it and quickly understand what your project is about and what knowledge do you have)
     
