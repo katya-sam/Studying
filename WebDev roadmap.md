@@ -1,6 +1,6 @@
 # Web Developer roadmap
 
-That will be my roapmap after watching quiet a lot of YouTube videos.
+That will be my roapmap after watching quite a lot of YouTube videos.
 
 1. learn how GitHub(or Git) works.
   I'll need it for my portfolio & this is a great way to track my studying progress.
