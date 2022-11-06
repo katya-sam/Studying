@@ -13,6 +13,9 @@ GitHub - a code hosting platform for version control and collaboration (being on
   
   **Commits** - saved changes
 
+## MD files
+If you want to add a few text files like I did, you just press "New" and add .md to the name of your file.
+
 ## README.md
 Readme.md is a project description with mockups. It's the default file that Github shows as a description.
     
