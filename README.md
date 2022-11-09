@@ -14,12 +14,12 @@ Thank you for reading! And good luck!
 # Web Developer roadmap
 That will be my roapmap after watching quite a lot of YouTube videos.
 
-- [x] [learn how GitHub](https://github.com/katya-sam/Studying/blob/e5a3d9dc67c561339ac8e8648bdcfdcb4def5a3f/GitHub_basics.md)/Git works. I'll need it for my portfolio & this is a great way to track my studying progress.
 - [x] learn how Dev tools work (in my case [Visual studio](https://github.com/katya-sam/Studying/blob/160854151839ef5b6044572bd844029dc14c648b/VisualStudio.md))
 - [ ] main terminal/command line commands
 - [x] [HTML & CSS](https://freecodecamp.org)
 - [x] [Javascript](https://freecodecamp.org)
-- [ ] Framework/library (React, View, Angular) - I'll study React as it seems the most used one now.
+- [x] [learn how GitHub](https://github.com/katya-sam/Studying/blob/e5a3d9dc67c561339ac8e8648bdcfdcb4def5a3f/GitHub_basics.md)/Git works. I'll need it for my portfolio & this is a great way to track my studying progress.
+- [ ] Framework/library (**React**, Angular) - I'll study React as it seems the most used one now.
 
 Optional for now: 
 - unit test (Jest, Jasmine, RTL) 
