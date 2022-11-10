@@ -26,3 +26,13 @@ Optional for now:
 - e2e tests (Cypress, Selenium) 
 - styling libraries & CSS pre-processors (at least one of these: SASS, STYLED COMPONENTS, MATERIAL-UI, TAILWIND) 
 - only for SSR Apps no need in the beginning: SSR Frameworks (Next.js, Gatsby, Remix)
+
+## Websites for language practice
+
+https://edabit.com/
+
+https://www.codewars.com/
+
+https://exercism.org/
+
+
